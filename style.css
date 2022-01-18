@@ -1,0 +1,28 @@
+.origami{
+    border-radius: 20px;
+    background-color: rgb(245, 158, 142);
+    padding:30px;
+    margin: 25px;
+    width:310px;
+    font-family: cursive;
+}
+
+.body{
+    margin:0px;
+}
+
+.header{
+    color: tomato;
+}
+
+a:link{
+    color: rgb(13, 153, 130);
+}
+
+a:visited{
+    color: rgb(95, 57, 182);
+}
+
+.origami:hover{
+    transform: scale(1.2);
+}
